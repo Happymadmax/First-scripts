@@ -94,27 +94,3 @@ Config.Locations = {
     sprite = 184, 
     scale = 0.5,
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
