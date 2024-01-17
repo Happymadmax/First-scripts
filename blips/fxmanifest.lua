@@ -3,7 +3,7 @@ game 'gta5'
 
 
 author 'Max'
-description 'Blip Creator Free For QBCore and ESX'
+description 'Blip for ANPR script'
 version '1.0'
 scriptname 'blips'
 
